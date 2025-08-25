@@ -12,6 +12,14 @@
 
 # testing
 /coverage
+/test-results
+/__tests__
+jest-results.json
+test-report.xml
+
+/.github
+/migrations
+/data
 
 # next.js
 /.next/
@@ -39,3 +47,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+/.vscode
+/database
+/docs
+/scripts
